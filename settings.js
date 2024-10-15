@@ -11,18 +11,18 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
-global.ytname = "YT: Deaethgun635"
-global.socialm = "GitHub: Limule3650"
+global.ownernomer = "923019830236"
+global.ownername = "Demoon"
+global.ytname = "YT: Demoon"
+global.socialm = "GitHub: Demoon"
 global.location = "Cameroon, Yaounde"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
-global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
+global.ownernumber = 'Demoon'  //creator number
+global.ownername = 'Demoon' //owner name
+global.botname = 'Demoon' //name of the bot
 
 //sticker details
-global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
+global.packname = '🍭Demoon'
 global.author = '🐉Limule Solitarus'
 
 //console view/theme
@@ -30,7 +30,7 @@ global.themeemoji = '🪀'
 global.wm = "Limule Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafhjw0IXnlonRAQMM2l'
+global.link = 'https://whatsapp.com/channel/0029VaeIf8xAu3aUQm3QAV3A'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
